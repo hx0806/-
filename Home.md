@@ -28,3 +28,4 @@
 26.[SpringBoot中使用Freemarker邮件模板生成邮件](https://github.com/lenve/vhr/wiki/26.SpringBoot%E4%B8%AD%E4%BD%BF%E7%94%A8Freemarker%E9%82%AE%E4%BB%B6%E6%A8%A1%E6%9D%BF%E7%94%9F%E6%88%90%E9%82%AE%E4%BB%B6)  
 27.[Java中邮件的发送](https://github.com/lenve/vhr/wiki/27.Java%E4%B8%AD%E9%82%AE%E4%BB%B6%E7%9A%84%E5%8F%91%E9%80%81)  
 28.[SpringBoot中使用新线程发送邮件](https://github.com/lenve/vhr/wiki/28.SpringBoot%E4%B8%AD%E4%BD%BF%E7%94%A8%E6%96%B0%E7%BA%BF%E7%A8%8B%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6)  
+29.[工资账套管理功能介绍](https://github.com/lenve/vhr/wiki/29.%E5%B7%A5%E8%B5%84%E8%B4%A6%E5%A5%97%E7%AE%A1%E7%90%86%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D)  
