@@ -30,3 +30,6 @@
 28.[SpringBoot中使用新线程发送邮件](https://github.com/lenve/vhr/wiki/28.SpringBoot%E4%B8%AD%E4%BD%BF%E7%94%A8%E6%96%B0%E7%BA%BF%E7%A8%8B%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6)  
 29.[工资账套管理功能介绍](https://github.com/lenve/vhr/wiki/29.%E5%B7%A5%E8%B5%84%E8%B4%A6%E5%A5%97%E7%AE%A1%E7%90%86%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D)  
 30.[员工账套设置功能介绍](https://github.com/lenve/vhr/wiki/30.%E5%91%98%E5%B7%A5%E8%B4%A6%E5%A5%97%E8%AE%BE%E7%BD%AE%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D)  
+31.[在线聊天功能介绍](https://github.com/lenve/vhr/wiki/31.%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D)  
+32.[在线聊天功能实现](https://github.com/lenve/vhr/wiki/32.%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0)  
+33.[系统通知功能实现](https://github.com/lenve/vhr/wiki/33.%E7%B3%BB%E7%BB%9F%E9%80%9A%E7%9F%A5%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0)  
